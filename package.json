@@ -1,0 +1,10 @@
+{
+  "name": "code_review_workshop",
+  "version": "1.0.0",
+  "description": "Learn how to properly code review other developers",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "David Rajcher",
+  "license": "ISC"
+}
