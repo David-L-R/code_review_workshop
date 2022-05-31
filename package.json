@@ -1,9 +1,9 @@
 {
   "name": "code_review_workshop",
   "version": "0.1.0",
-  "private": true,
   "dependencies": {},
   "scripts": {
-    "start": "cd client && react-scripts start && cd ../server && run start"
+    "start": "cd client && react-scripts start",
+    "server": "cd server && npm run start"
   }
 }
