@@ -2,11 +2,11 @@ const { Router } = require("express");
 
 const router = Router();
 
-router.get("/", (req, res) => {
+router.get("/users", (req, res) => {
   res.send("test");
 });
 
-router.get("/test", (req, res) => {
+router.get("/posts", (req, res) => {
   res.send("test successful");
 });
 
