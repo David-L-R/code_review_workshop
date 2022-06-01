@@ -1,0 +1,635 @@
+[
+  {
+    "id": 0,
+    "age": 18,
+    "name": "Millie Mcintyre",
+    "gender": "female",
+    "email": "milliemcintyre@bleeko.com",
+    "hobbies": [
+      "non",
+      "fugiat",
+      "eu",
+      "qui",
+      "voluptate",
+      "excepteur",
+      "minim"
+    ],
+    "pets": [
+      {
+        "name": "Owen",
+        "type": "fish"
+      },
+      {
+        "name": "Haley",
+        "type": "dog"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "age": 40,
+    "name": "Curry Mcleod",
+    "gender": "male",
+    "email": "currymcleod@bleeko.com",
+    "hobbies": ["nulla", "commodo", "qui", "ut", "quis", "est", "laboris"],
+    "pets": [
+      {
+        "name": "Larson",
+        "type": "cat"
+      },
+      {
+        "name": "Robles",
+        "type": "rabbit"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "age": 22,
+    "name": "Nell York",
+    "gender": "female",
+    "email": "nellyork@bleeko.com",
+    "hobbies": [
+      "cupidatat",
+      "dolore",
+      "duis",
+      "elit",
+      "qui",
+      "duis",
+      "officia"
+    ],
+    "pets": [
+      {
+        "name": "Cindy",
+        "type": "cat"
+      },
+      {
+        "name": "Hayden",
+        "type": "lizard"
+      },
+      {
+        "name": "Avery",
+        "type": "dog"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "age": 29,
+    "name": "Kellie Nielsen",
+    "gender": "female",
+    "email": "kellienielsen@bleeko.com",
+    "hobbies": [
+      "enim",
+      "officia",
+      "velit",
+      "adipisicing",
+      "ipsum",
+      "quis",
+      "consectetur"
+    ],
+    "pets": [
+      {
+        "name": "Jana",
+        "type": "dog"
+      },
+      {
+        "name": "Elaine",
+        "type": "cat"
+      },
+      {
+        "name": "Ruiz",
+        "type": "dog"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "age": 32,
+    "name": "Marva Alford",
+    "gender": "female",
+    "email": "marvaalford@bleeko.com",
+    "hobbies": [
+      "sint",
+      "occaecat",
+      "excepteur",
+      "et",
+      "incididunt",
+      "deserunt",
+      "pariatur"
+    ],
+    "pets": [
+      {
+        "name": "Stanley",
+        "type": "dog"
+      },
+      {
+        "name": "Farmer",
+        "type": "fish"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "age": 35,
+    "name": "Fannie Gates",
+    "gender": "female",
+    "email": "fanniegates@bleeko.com",
+    "hobbies": ["minim", "cillum", "amet", "qui", "dolor", "ut", "duis"],
+    "pets": [
+      {
+        "name": "Barrett",
+        "type": "dog"
+      },
+      {
+        "name": "Payne",
+        "type": "dog"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "age": 14,
+    "name": "Beatrice Forbes",
+    "gender": "female",
+    "email": "beatriceforbes@bleeko.com",
+    "hobbies": [
+      "ea",
+      "labore",
+      "adipisicing",
+      "adipisicing",
+      "qui",
+      "Lorem",
+      "voluptate"
+    ],
+    "pets": [
+      {
+        "name": "Berger",
+        "type": "rabbit"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "age": 31,
+    "name": "Vance Burke",
+    "gender": "male",
+    "email": "vanceburke@bleeko.com",
+    "hobbies": [
+      "Lorem",
+      "laborum",
+      "est",
+      "incididunt",
+      "ullamco",
+      "et",
+      "consequat"
+    ],
+    "pets": [
+      {
+        "name": "Kristie",
+        "type": "rabbit"
+      },
+      {
+        "name": "Hull",
+        "type": "rabbit"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "age": 40,
+    "name": "Jessica Duke",
+    "gender": "female",
+    "email": "jessicaduke@bleeko.com",
+    "hobbies": [
+      "quis",
+      "veniam",
+      "ullamco",
+      "nisi",
+      "pariatur",
+      "consectetur",
+      "velit"
+    ],
+    "pets": []
+  },
+  {
+    "id": 9,
+    "age": 26,
+    "name": "Nita Todd",
+    "gender": "female",
+    "email": "nitatodd@bleeko.com",
+    "hobbies": [
+      "tempor",
+      "elit",
+      "enim",
+      "non",
+      "aliqua",
+      "reprehenderit",
+      "culpa"
+    ],
+    "pets": [
+      {
+        "name": "Kelley",
+        "type": "dog"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "age": 23,
+    "name": "Lucile Hewitt",
+    "gender": "female",
+    "email": "lucilehewitt@bleeko.com",
+    "hobbies": [
+      "est",
+      "in",
+      "fugiat",
+      "nulla",
+      "laborum",
+      "excepteur",
+      "proident"
+    ],
+    "pets": []
+  },
+  {
+    "id": 11,
+    "age": 16,
+    "name": "Tracy Hess",
+    "gender": "female",
+    "email": "tracyhess@bleeko.com",
+    "hobbies": ["dolore", "ad", "adipisicing", "non", "aliquip", "est", "enim"],
+    "pets": []
+  },
+  {
+    "id": 12,
+    "age": 14,
+    "name": "Adams Lane",
+    "gender": "male",
+    "email": "adamslane@bleeko.com",
+    "hobbies": [
+      "laborum",
+      "et",
+      "occaecat",
+      "culpa",
+      "aliqua",
+      "sit",
+      "cupidatat"
+    ],
+    "pets": [
+      {
+        "name": "Mccray",
+        "type": "cat"
+      },
+      {
+        "name": "Wilkins",
+        "type": "dog"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "age": 28,
+    "name": "Sadie Sawyer",
+    "gender": "female",
+    "email": "sadiesawyer@bleeko.com",
+    "hobbies": [
+      "exercitation",
+      "labore",
+      "sit",
+      "veniam",
+      "cillum",
+      "proident",
+      "amet"
+    ],
+    "pets": [
+      {
+        "name": "Avis",
+        "type": "rabbit"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "age": 34,
+    "name": "Whitley Branch",
+    "gender": "male",
+    "email": "whitleybranch@bleeko.com",
+    "hobbies": [
+      "ipsum",
+      "aute",
+      "incididunt",
+      "laboris",
+      "minim",
+      "ad",
+      "anim"
+    ],
+    "pets": []
+  },
+  {
+    "id": 15,
+    "age": 24,
+    "name": "Mona Sandoval",
+    "gender": "female",
+    "email": "monasandoval@bleeko.com",
+    "hobbies": [
+      "non",
+      "pariatur",
+      "id",
+      "consectetur",
+      "fugiat",
+      "aliqua",
+      "labore"
+    ],
+    "pets": []
+  },
+  {
+    "id": 16,
+    "age": 37,
+    "name": "Todd Parrish",
+    "gender": "male",
+    "email": "toddparrish@bleeko.com",
+    "hobbies": [
+      "reprehenderit",
+      "elit",
+      "culpa",
+      "laborum",
+      "ad",
+      "labore",
+      "nulla"
+    ],
+    "pets": []
+  },
+  {
+    "id": 17,
+    "age": 25,
+    "name": "Logan Chen",
+    "gender": "male",
+    "email": "loganchen@bleeko.com",
+    "hobbies": [
+      "fugiat",
+      "ullamco",
+      "incididunt",
+      "anim",
+      "pariatur",
+      "et",
+      "cupidatat"
+    ],
+    "pets": []
+  },
+  {
+    "id": 18,
+    "age": 18,
+    "name": "Ina Noble",
+    "gender": "female",
+    "email": "inanoble@bleeko.com",
+    "hobbies": [
+      "ad",
+      "deserunt",
+      "laborum",
+      "consequat",
+      "do",
+      "exercitation",
+      "id"
+    ],
+    "pets": [
+      {
+        "name": "Burch",
+        "type": "dog"
+      },
+      {
+        "name": "Myers",
+        "type": "rabbit"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "age": 10,
+    "name": "Blanchard Henderson",
+    "gender": "male",
+    "email": "blanchardhenderson@bleeko.com",
+    "hobbies": [
+      "adipisicing",
+      "ea",
+      "occaecat",
+      "commodo",
+      "voluptate",
+      "aliquip",
+      "ut"
+    ],
+    "pets": [
+      {
+        "name": "Mercedes",
+        "type": "cat"
+      },
+      {
+        "name": "Deidre",
+        "type": "lizard"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "age": 16,
+    "name": "Vaughan Meyers",
+    "gender": "male",
+    "email": "vaughanmeyers@bleeko.com",
+    "hobbies": [
+      "aute",
+      "occaecat",
+      "eiusmod",
+      "eiusmod",
+      "anim",
+      "voluptate",
+      "ut"
+    ],
+    "pets": [
+      {
+        "name": "Foley",
+        "type": "lizard"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "age": 18,
+    "name": "Wagner Serrano",
+    "gender": "male",
+    "email": "wagnerserrano@bleeko.com",
+    "hobbies": [
+      "esse",
+      "sunt",
+      "elit",
+      "incididunt",
+      "Lorem",
+      "minim",
+      "minim"
+    ],
+    "pets": []
+  },
+  {
+    "id": 22,
+    "age": 40,
+    "name": "Bowers Mckenzie",
+    "gender": "male",
+    "email": "bowersmckenzie@bleeko.com",
+    "hobbies": [
+      "reprehenderit",
+      "est",
+      "sit",
+      "in",
+      "elit",
+      "cupidatat",
+      "labore"
+    ],
+    "pets": []
+  },
+  {
+    "id": 23,
+    "age": 30,
+    "name": "Nadine Shepard",
+    "gender": "female",
+    "email": "nadineshepard@bleeko.com",
+    "hobbies": ["in", "qui", "velit", "laboris", "nulla", "ex", "magna"],
+    "pets": [
+      {
+        "name": "Marianne",
+        "type": "fish"
+      },
+      {
+        "name": "Harper",
+        "type": "fish"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "age": 18,
+    "name": "Stark Aguirre",
+    "gender": "male",
+    "email": "starkaguirre@bleeko.com",
+    "hobbies": [
+      "veniam",
+      "ut",
+      "deserunt",
+      "cillum",
+      "minim",
+      "mollit",
+      "cupidatat"
+    ],
+    "pets": [
+      {
+        "name": "Roach",
+        "type": "fish"
+      },
+      {
+        "name": "Candice",
+        "type": "dog"
+      },
+      {
+        "name": "Traci",
+        "type": "cat"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "age": 21,
+    "name": "Billie Salazar",
+    "gender": "female",
+    "email": "billiesalazar@bleeko.com",
+    "hobbies": [
+      "laboris",
+      "nisi",
+      "exercitation",
+      "ullamco",
+      "culpa",
+      "sint",
+      "consectetur"
+    ],
+    "pets": []
+  },
+  {
+    "id": 26,
+    "age": 15,
+    "name": "Silva Mcpherson",
+    "gender": "male",
+    "email": "silvamcpherson@bleeko.com",
+    "hobbies": ["do", "Lorem", "irure", "excepteur", "elit", "sunt", "aliquip"],
+    "pets": []
+  },
+  {
+    "id": 27,
+    "age": 34,
+    "name": "Romero Workman",
+    "gender": "male",
+    "email": "romeroworkman@bleeko.com",
+    "hobbies": [
+      "irure",
+      "consectetur",
+      "laboris",
+      "occaecat",
+      "eu",
+      "qui",
+      "est"
+    ],
+    "pets": [
+      {
+        "name": "Sofia",
+        "type": "fish"
+      },
+      {
+        "name": "Valeria",
+        "type": "rabbit"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "age": 11,
+    "name": "Dollie Dillon",
+    "gender": "female",
+    "email": "dolliedillon@bleeko.com",
+    "hobbies": ["aliqua", "cillum", "culpa", "consequat", "nulla", "est", "in"],
+    "pets": [
+      {
+        "name": "Ryan",
+        "type": "cat"
+      },
+      {
+        "name": "Hampton",
+        "type": "cat"
+      },
+      {
+        "name": "Angela",
+        "type": "dog"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "age": 13,
+    "name": "Lucy Dixon",
+    "gender": "female",
+    "email": "lucydixon@bleeko.com",
+    "hobbies": [
+      "cupidatat",
+      "nisi",
+      "minim",
+      "est",
+      "cupidatat",
+      "ad",
+      "minim"
+    ],
+    "pets": [
+      {
+        "name": "Hess",
+        "type": "dog"
+      },
+      {
+        "name": "Gallagher",
+        "type": "lizard"
+      }
+    ]
+  }
+]

@@ -1,10 +1,10 @@
 const { Router } = require("express");
-const posts = require("../db/posts.json");
+const users = require("../db/users.json");
 
 const router = Router();
 
 router.get("/", (req, res) => {
-  res.status(200).send(posts);
+  res.status(200).send(users);
 });
 
 router.get("/:id", (req, res) => {
@@ -14,13 +14,13 @@ router.get("/:id", (req, res) => {
     return res.status(400).send("No id was provided");
   }
 
-  const post = posts.find((post) => post.id === parseInt(id));
+  const user = users.find((user) => user.id === parseInt(id));
 
-  if (!post) {
-    return res.status(400).send(`No post was found with id ${id}`);
+  if (!user) {
+    return res.status(400).send(`No user was found with id ${id}`);
   }
 
-  res.status(200).send(post);
+  res.status(200).send(user);
 });
 
 module.exports = router;
